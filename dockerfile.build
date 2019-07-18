@@ -1,2 +1,0 @@
-FROM ubuntu
-RUN echo "Oussama t'es un génie"
