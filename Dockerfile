@@ -1,2 +1,2 @@
-FROM ubuntu:latest 
-      echo "Hello Oussama You're awesome !"
+FROM ubuntu
+      CMD[echo "Hello Oussama You're awesome !"]
